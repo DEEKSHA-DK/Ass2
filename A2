@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Assignment</title>
+</head>
+<body>
+    <h1>Ney york-central park</h1>
+    <nav role="navigation">
+        <ul>
+            <li><a href="#">Description</a></li>
+            <li><a href="#">Related photoes</a></li>
+            <li><a href="#">Review</a></li>
+        </ul>
+    </nav>
+    <h1>description</h1>
+    <p>photo by ABC</p>
+    <P>This photo shows the view of central perk taken on oct 22,with Nikon DSLR</P>
+    <img src="C:\Users\hp\Downloads\download.jfif">
+    <p><em>conservatory pond in central park</em></p>
+<section>
+     <h1>Related photoes</h1>
+    <img src="C:\Users\hp\Downloads\download (1).jfif">
+    <img src="C:\Users\hp\Downloads\download (2).jfif">
+    <img src="C:\Users\hp\Downloads\download (3).jfif">
+</section>
+<section>
+    <h1>reviews</h1>
+    <p>By Ricardo on sept15,2015</p>
+    <p>F.R.I.E.N.D.S</p>
+<hr>
+    <p>By Susan on oct1,2015</p>
+    <p>I love central park</p>
+<hr>
+    </section>
+    <p><a href="#">home|</a>
+    <p><a href="#">browse|</a>
+    <p><a href="#">search</a>
+        </p>
+    <footer><spam style="color:green">Copyright&#169</spam></footer>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
